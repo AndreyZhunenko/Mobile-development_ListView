@@ -1,0 +1,22 @@
+{
+  "user": {
+    "name": "Alex",
+    "phoneNumber": "89506046880",
+    "sex": "MAN"
+  },
+  "user": {
+    "name": "Elena",
+    "phoneNumber": "89455047990",
+    "sex": "WOMAN"
+  },
+  "user": {
+    "name": "Rabbit",
+    "phoneNumber": "89248314206",
+    "sex": "UNKNOWN"
+  },
+  "user": {
+    "name": "monkey",
+    "phoneNumber": "89113067440",
+    "sex": "UNKNOWN"
+  }
+}
